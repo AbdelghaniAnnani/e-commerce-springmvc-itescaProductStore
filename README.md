@@ -21,7 +21,7 @@ FIRST:
 
 SECOND:
 
-- Once the db schema is created, you can run this querys in the h2 console to create the admin user, and from there you can manage the products of the site.
+- Run the application once to create the db tables and then you can run this query in the h2 console to create the admin user, and from there you can manage the products of the site.
   
  
 ```SQL    
