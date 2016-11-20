@@ -15,13 +15,13 @@ FIRST:
 
 - Run the h2 console and configure the db credentials wich can be found at the applicationContext.xml file.
 
-- Configure the deploy server technology for the project, i used tomcat 8.5 configured inside the intellij ide.
+- Configure the server container for the project, i used tomcat 8.5 installed locally and configured inside the IDE.
 
 - and run it :).
 
 SECOND:
 
-- Run the application once to create the db tables and then you can run this query in the h2 console to create the admin user, and from there you can manage the products of the site.
+- Run the application once to let hibernate to create the db tables and then you can run this query in the h2 console to create the admin user, and from there you can manage the products of the site.
   
  
 ```SQL    
