@@ -29,6 +29,15 @@ INSERT INTO authorities VALUES (1,'ROLE_ADMIN','admin');
 
 ---
 
+### Demo Images
+
+![demo](https://github.com/cesardariogarcia/e-commerce-springmvc-itescaProductStore/blob/master/tiendaItesca1.JPG "Itesca Store")
+![demo](https://github.com/cesardariogarcia/e-commerce-springmvc-itescaProductStore/blob/master/tiendaItesca2.JPG "Itesca Store")
+![demo](https://github.com/cesardariogarcia/e-commerce-springmvc-itescaProductStore/blob/master/tiendaItesca3.JPG "Itesca Store")
+![demo](https://github.com/cesardariogarcia/e-commerce-springmvc-itescaProductStore/blob/master/tiendaItesca4.JPG "Itesca Store")
+![demo](https://github.com/cesardariogarcia/e-commerce-springmvc-itescaProductStore/blob/master/tiendaItesca5.JPG "Itesca Store")
+
+
 This project was made as a programming exercise, thanks to udemy for the course.
 
 
